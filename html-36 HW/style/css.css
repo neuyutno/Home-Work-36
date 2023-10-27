@@ -1,0 +1,22 @@
+.block {
+  background: #ad8c0c;
+  width: 240px;
+  height: 180px;
+  padding: 20px 25px;
+  border-radius: 8%;
+  border: 1px solid black;
+  margin: 1%;
+  box-shadow: inset 0px 0px 20px -3px #a22424;
+  display: inline-block;
+}
+
+.qwerty {
+  width: 1300px;
+  height: 600px;
+  margin: 20px;
+  overflow-y: scroll;
+  border: 1px solid black;
+  border-radius: 5% 0% 0% 5%;
+
+
+}
